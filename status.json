@@ -1,7 +1,9 @@
 {
 "server": "Streamtape",
-"dailyup": "443 videos/day",
+"server2": "doodstream",
 "dailyup": "443 videos/day",
 "storageleft": "Unlimited - No uploading limits",
 "storage": "",
+"storage2": "",
+"lastup": "",
 }
