@@ -1,10 +1,7 @@
 {
-"status": "200",
+"server": "Streamtape",
+"dailyup": "443 videos/day",
 "dailyup": "443 videos/day",
 "storageleft": "Unlimited - No uploading limits",
-"storage": {
-    "s1": "273.33 GB",
-    "s2": "121.5 GB",
-    "s3": "105.06 GB",
-}
+"storage": "",
 }
